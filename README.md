@@ -1,2 +1,2 @@
 # git-repo-test
-Git 저장소 테스트
+Git Develop 저장소 테스트
